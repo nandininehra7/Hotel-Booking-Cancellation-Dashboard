@@ -27,7 +27,7 @@ This Excel dashboard provides a comprehensive analysis of hotel booking cancella
 
 ## Requirements
 
-- Microsoft Excel (Version X.X or higher)
+- Microsoft Excel (365 Best)
 - Basic understanding of Excel functions and data analysis techniques
 
 ## Preview
@@ -36,8 +36,5 @@ This Excel dashboard provides a comprehensive analysis of hotel booking cancella
 
 ## Contributors
 
-- [Your Name](link to your LinkedIn or GitHub profile) - Developer & Data Analyst
+- [Aditya Pathania]
 
-## Feedback and Support
-
-For any feedback, suggestions, or support inquiries, please contact [your email address].
