@@ -1,5 +1,5 @@
 
-# Hotel Booking Cancellation Dashboard
+# 🏨 Hotel Booking Cancellation Dashboard
 
 ## Overview
 
