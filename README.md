@@ -1,8 +1,6 @@
 
 # Hotel Booking Cancellation Dashboard
 
-![Dashboard Preview]![DashBoard](https://github.com/Rex-Underground/Hotel-Booking-Cancellation-Dashboard/assets/158386292/b184efbc-1a52-4658-b509-bfe5fd5219e0)
-
 ## Overview
 
 This Excel dashboard provides a comprehensive analysis of hotel booking cancellations, enabling businesses to gain valuable insights and make informed decisions. The dashboard is designed to help visualize cancellation trends, reasons for cancellations, and their impact on hotel operations.
@@ -34,7 +32,7 @@ This Excel dashboard provides a comprehensive analysis of hotel booking cancella
 
 ## Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![DashBoard](https://github.com/Rex-Underground/Hotel-Booking-Cancellation-Dashboard/assets/158386292/b184efbc-1a52-4658-b509-bfe5fd5219e0)
 
 ## Contributors
 
