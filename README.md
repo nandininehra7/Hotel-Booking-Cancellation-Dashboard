@@ -33,5 +33,5 @@ This Excel dashboard provides a comprehensive analysis of hotel booking cancella
 
 ![Dashboard Preview](https://github.com/Rex-Underground/Hotel-Booking-Cancellation-Dashboard/assets/158386292/b184efbc-1a52-4658-b509-bfe5fd5219e0)
 
-## Made By - Aditya Pathania
+## Made By - Nandini Nehra
 
